@@ -361,7 +361,8 @@ p {
 
 #portfolio .container-fluid .portfolio-row-center {
   width: 440px;
-  margin-right: 38px;
+  margin-right: 19px;
+  margin-left: 19px;
   text-align: center; }
 
 #portfolio .container-fluid .portfolio-container {
@@ -676,7 +677,31 @@ p {
   .portfolio-container {
     width: 100% !important; }
   .portfolio-img {
-    width: 100% !important; } }
+    width: 100% !important; }
+  .portfolio-logo-img {
+    display: none !important; }
+  .portfolio-container-text {
+    font-size: 18px !important; }
+  .blog-text {
+    font-size: 20px !important; }
+  .socials img {
+    width: 50% !important; }
+  .blog-main-text {
+    font-size: 30px !important; }
+  .blog-date {
+    font-size: 12px !important; }
+  .about-img {
+    width: 50% !important; }
+  .hamburher-menu-li {
+    font-size: 30px !important;
+    height: 12vh !important;
+    line-height: 13vh !important; }
+  #hamburger-menu {
+    margin-top: -48vh; }
+  #header-text {
+    font-size: 26px !important; }
+  #header-text .font-size {
+    font-size: 32px !important; } }
 
 @media only screen and (max-width: 550px) {
   .section-text-head {
